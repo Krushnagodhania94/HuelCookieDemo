@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 # Huel-Cookie
 # HuelCookieDemo
 # HuelCookieDemo
+# Huel-Cookie
